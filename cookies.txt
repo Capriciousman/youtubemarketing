@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.staticking.com	TRUE	/	FALSE	1999999999	ci_session	2gk4k2h61m2fdq16d3a13c9gcdk987n9
+.tracemyip.org	TRUE	/	FALSE	1999999999	TIPja_2_84215	1592901782xx1592901781xx1592901782xx1xx1xx1xxxx1xx0xx1732661641xxxxxxxxxxxxf260da8af983a70237a9f4d567d99d90xx0
+.crisp.chat	TRUE	/	FALSE	1999999999	__cfduid	d93949affc554b5d685fcf37cc2405a4a1592901788
+client.crisp.chat	TRUE	/	FALSE	1999999999	SameSite	Lax
+.google.com	TRUE	/	FALSE	1999999999	NID	204=W4j1-No9Z0kBwKWxthFR831DEts8HAk9Udt1poGWlAAqMC2u15EVxIjvianPzSJ9Op9QBAhnC0C43COU04DOug6k6-VOm7BUMlTsbojucja0FRjKF-Ai3rHrwb5qYU6RqLZx7hiELMpRQtlUiqw6iMeeAhErIsxKHbCL6V1Z4vw
+
